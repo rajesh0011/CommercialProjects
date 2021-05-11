@@ -1,0 +1,11 @@
+Color Theme
+
+	Forms
+Blue		#0000ff
+
+
+
+
+Green		#008000
+	Buttons
+Red		#ff0000
